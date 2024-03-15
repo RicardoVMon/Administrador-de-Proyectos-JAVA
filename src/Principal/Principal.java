@@ -3,6 +3,8 @@ package Principal;
 import ListaDoblementeCircular.ListaDobleCircular;
 import javax.swing.JOptionPane;
 
+// Creado por Ricardo Vargas Montero
+
 public class Principal {
 
     public static void main(String[] args) {
